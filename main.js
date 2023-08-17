@@ -23,7 +23,5 @@ async function mountFastboard(div) {
 }
 
 mountFastboard(document.getElementById("app"));
-await app.insertImage(
-    "https://web-cdn.agora.io/website-files/images/interactive-whiteboard-text-tab-1.png"
-);
+
 
